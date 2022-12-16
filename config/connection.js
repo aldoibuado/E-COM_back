@@ -1,3 +1,4 @@
+// Will enable access to .env variables
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
