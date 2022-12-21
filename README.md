@@ -24,7 +24,7 @@
   The user will need to input npm install and then press enter. The user will also need to input node seeds/index.js, press enter and then also input node server.js, press enter to get the server to connect. 
 
   ## Usage
-  The user will need to download Insomnia. Once Insomnia has been downloaded, the user will use the GET option and input http://locathost:3001/api/ and input categories, products or tags one at a time and click send to see if it will return the requested information.
+  The user will need to download Insomnia. Once Insomnia has been downloaded, the user will use the GET option and input http://locathost:3001/api/ and input categories, products or tags one at a time and click send to see if it will return the requested information. I have attached a link https://youtu.be/BFHrE03wvdw to the video displaying how to different routes function! 
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen) <br/>
